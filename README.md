@@ -9,7 +9,7 @@ Here are my most recently SCSS finished projects:
 <table>
 <tr>
   <td align="center">
-    <div>SCSS 5 - HTML Project with Styles</div><br>
+    <div>SCSS 5 - HTML Project with Styles - responsive</div><br>
     <div>
       <a href="https://hectormunoz1988.github.io/css-5-proyecto-html-con-estilos/">
         <img src="https://raw.githubusercontent.com/HectorMunoz1988/HectorMunoz1988/main/assets/css-5-proyecto-html-con-estilos_800x500.jpg" width="400">
@@ -17,7 +17,7 @@ Here are my most recently SCSS finished projects:
     </div><br>
   </td>
   <td align="center">
-    <div>SCSS 4 - Portfolio</div><br>
+    <div>SCSS 4 - Portfolio - responsive</div><br>
     <div>
       <a href="https://hectormunoz1988.github.io/css-4-portfolio/">
         <img src="https://raw.githubusercontent.com/HectorMunoz1988/HectorMunoz1988/main/assets/css-4-portfolio_800x500.jpg" width="400">
@@ -28,7 +28,7 @@ Here are my most recently SCSS finished projects:
 
 <tr>
   <td align="center">
-    <div>SCSS 3 - Modern Art Gallery</div><br>
+    <div>SCSS 3 - Modern Art Gallery - responsive</div><br>
     <div>
       <a href="https://hectormunoz1988.github.io/css-3-modern-art-gallery/">
         <img src="https://raw.githubusercontent.com/HectorMunoz1988/HectorMunoz1988/main/assets/css-3-modern-art-gallery_800x500.jpg" width="400">
@@ -55,7 +55,7 @@ Here are my most recently SCSS finished projects:
     </div><br>
   </td>
   <td align="center">
-    <div>Project 07 - E-Learning Landing Page</div><br>
+    <div>Project 07 - E-Learning Landing Page - responsive</div><br>
     <div>
       <a href="https://hectormunoz1988.github.io/css-proyecto-07-elearning-landing-page-responsive/">
         <img src="https://raw.githubusercontent.com/HectorMunoz1988/HectorMunoz1988/main/assets/css-proyecto-07-elearning-landing-page-responsive_800x500.jpg" width="400">
