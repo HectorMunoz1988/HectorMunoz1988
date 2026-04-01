@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Héctor Muñoz
+👋 Hi, I'm Héctor Muñoz
 
 Web development student.
 
-Here are my most recently SCSS finished projects:
+Here are my most recently finished projects:
 
-🚀 Projects
+🔵 SCSS Projects
 
 <table>
 <tr>
@@ -115,7 +115,34 @@ Here are my most recently SCSS finished projects:
 </tr>
 </table>
 
+
+🟡 JavaScript Projects
+
+<table>
+<tr>
+  <td align="center">
+    <div>Buscaminas Minesweeper</div><br>
+    <div>
+      <a href="https://hectormunoz1988.github.io/proyecto-js-buscaminas-minesweeper/">
+        <img src="https://raw.githubusercontent.com/HectorMunoz1988/HectorMunoz1988/main/assets/proyecto-js-buscaminas-minesweeper_800x500.jpg" width="400">
+      </a>
+    </div><br>
+  </td>
+
+  <td align="center">
+    <div>JavaScript Exercises</div><br>
+    <div>
+      <a href="https://hectormunoz1988.github.io/js-entrega-ejercicios/">
+        <img src="https://raw.githubusercontent.com/HectorMunoz1988/HectorMunoz1988/main/assets/js-entrega-ejercicios_800x500.jpg" width="400">
+      </a>
+    </div><br>
+  </td>
+</tr>
+</table>
+
+
 🛠️ Technologies used
 - HTML
 - SCSS
 - Vite
+- JavaScript
