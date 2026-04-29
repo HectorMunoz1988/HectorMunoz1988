@@ -115,7 +115,6 @@ Here are my most recently finished projects:
 </tr>
 </table>
 
-
 🟡 JavaScript Projects
 
 <table>
@@ -140,9 +139,34 @@ Here are my most recently finished projects:
 </tr>
 </table>
 
+⚛️ React Projects
+
+<table>
+<tr>
+  <td align="center">
+    <div>Cat Gallery Api</div><br>
+    <div>
+      <a href="https://hectormunoz1988.github.io/cat-api-react/">
+        <img src="https://raw.githubusercontent.com/HectorMunoz1988/HectorMunoz1988/main/assets/cat-api-react_800x500" width="400">
+      </a>
+    </div><br>
+  </td>
+
+  <td align="center">
+    <div>React Exercises</div><br>
+    <div>
+      <a href="https://hectormunoz1988.github.io/react-ejercicios/">
+        <img src="https://raw.githubusercontent.com/HectorMunoz1988/HectorMunoz1988/main/assets/react-ejercicios_800x500" width="400">
+      </a>
+    </div><br>
+  </td>
+</tr>
+</table>
+
 
 🛠️ Technologies used
 - HTML
 - SCSS
 - Vite
 - JavaScript
+- React
